@@ -3,3 +3,24 @@ body {
   height: 100%;
   margin: 0;
 }
+h1 {
+  color: red;
+}
+header {
+  text-align: center;
+}
+
+a {
+  padding: 10px;
+}
+figcaption {
+  font-size: 14px;
+  text-align: center;
+}
+#featured-property > p{
+  width: 900px;
+  text-align: center;
+}
+div {
+  float: left;
+}
